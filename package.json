@@ -9,10 +9,7 @@
 	"jest": {
 		"testEnvironment": "node"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/LambdaSchool/Server-Testing.git"
-	},
+	"repository": "git+https://github.com/LambdaSchool/Server-Testing.git",
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
@@ -21,7 +18,7 @@
 	},
 	"homepage": "https://github.com/LambdaSchool/Server-Testing#readme",
 	"devDependencies": {
-		"jest": "^23.6.0",
+		"jest": "^24.1.0",
 		"supertest": "^3.3.0"
 	},
 	"dependencies": {
