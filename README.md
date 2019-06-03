@@ -10,9 +10,9 @@
 
 For this project you will use `Test Driven Development` to create a RESTful API using `Node.js` and `Express` that publishes a set of endpoints to manage a _resource_ of your choosing. Data can be stored in memory, adding a **test database is optional**.
 
-## Download Project and Install Dependencies
+## Download Project and Install Dependencies (Completed)
 
-1.  fork and clone this repository.
+1.  fork and clone this repository. yarn
 1.  **CD into the folder** where you downloaded the repository.
 1.  run `yarn` or `npm i` to download all dependencies.
 1.  type `yarn test` or `npm test` to run the tests. The `test` script is already configured.
